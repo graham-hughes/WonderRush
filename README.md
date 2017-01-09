@@ -1,5 +1,5 @@
 # WonderRush
-I designed, built, and self published WonderRush while interning at the educational robotics company Wonder Workshop. /n
+I designed, built, and self published WonderRush while interning at the educational robotics company Wonder Workshop. 
 This was my first major project, before I had taken any formal CS course, so much of the code is not up to my current standards. 
 
 ## Function
